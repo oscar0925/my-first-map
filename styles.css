@@ -1,7 +1,7 @@
 body {
     font-family: 'Roboto Slab', serif;
     font-size: 18px;
-    line-height: 26px;
+    line-height: 22px;
 }
 
 .article-hed {
@@ -12,14 +12,15 @@ body {
 
 .hed {
     font-size: 52px;
+    line-height: 55px;
     /*font-weight: 400;*/
 }
 
 .dek {
-    font-family: 'Bebas Neue', serif;
+    font-family: 'Roboto Slab', serif;
     font-weight: 400;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 25px;
+    line-height: 28px;
     color: #333;
 }
 
@@ -50,7 +51,7 @@ body {
 .photo-caption {
     margin: 0;
     font-family: 'Roboto', sans-serif;
-    font-size: 13px;
+    font-size: 16px;
     color: #333;
 }
 
